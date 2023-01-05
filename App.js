@@ -36,4 +36,5 @@ const persistConfig = {
         );
     }
   }
+  Redux Branch --- Current Branch before Renaming.
   export default App;
